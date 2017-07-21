@@ -1,7 +1,12 @@
 # JestDemo
-Jest demo with TDD
+Jest TDD demo
 
-run tests
+ - Clone repo
+```
+npm i
+```
+
+ - run tests
 ```
 npm run watch-test
 ```
